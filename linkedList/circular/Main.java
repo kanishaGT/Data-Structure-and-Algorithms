@@ -13,7 +13,7 @@ public class Main {
 
         list.insertAtBeginning(5);
         System.out.print("After Insert Beginning: ");
-        list.traverse(); // 5 10 20 30
+        list.traverse(); // 5 10 20  30
 
         list.deleteFirst();
         System.out.print("After Delete First: ");
